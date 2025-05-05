@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Doto-App/static/css/main.c4bc0e5f.css",
+    "main.js": "/Doto-App/static/js/main.092a5c55.js",
+    "static/media/Alexandria-Black.ttf": "/Doto-App/static/media/Alexandria-Black.6ae708e765675e6b0e46.ttf",
+    "index.html": "/Doto-App/index.html",
+    "main.c4bc0e5f.css.map": "/Doto-App/static/css/main.c4bc0e5f.css.map",
+    "main.092a5c55.js.map": "/Doto-App/static/js/main.092a5c55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4bc0e5f.css",
+    "static/js/main.092a5c55.js"
+  ]
+}
